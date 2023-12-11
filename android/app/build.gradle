@@ -121,3 +121,10 @@ dependencies {
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+
+
+
+// dependencies {
+//     implementation 'com.facebook.react:react-native:+'
+//     implementation 'com.reactnativecommunity:react-native-share:10.0.2'
+// }
